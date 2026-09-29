@@ -92,7 +92,4 @@ airline-passenger-satisfaction-analysis/
 ├── Airline Data (1).csv
 ├── Airline_Dashboard. (1).pbix
 ├── Airline_Dashboard.pdf
-├── README.md
-└── screenshots/
-    ├── dashboard_page1.png
-    └── dashboard_page2.png
+└── README.md
